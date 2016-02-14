@@ -1,0 +1,131 @@
+﻿<Window x:Class="ClusteringEnsembleSuite.Main"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:this="clr-namespace:ClusteringEnsembleSuite.Controls.TabsControls"
+    xmlns:Navigation="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Navigation"
+    xmlns:controls="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls"
+    xmlns:TelerikStyles="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls"
+    Title="Clustering Ensemble Suite" WindowStyle="SingleBorderWindow"  WindowState="Maximized" AllowsTransparency="False" Icon="/ClusteringEnsembleSuite;component/app.ico" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition ></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Menu Grid.Row="0" Background="#D6E2F2" Name="menu1" VerticalAlignment="Top">
+                <MenuItem Header="File">
+                    <MenuItem Name="menu_item_open" Header="Open file" Click="ButtonTool_Click_Open">
+                        <MenuItem.Icon>
+                            <Image Height="18" Width="18" Source="./Resources/Images/open.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator Margin="-4"/>
+                    <MenuItem Header="Exit" Click="ButtonTool_Click_Close"/>
+                </MenuItem>
+                <MenuItem Header="Tools">
+                    <MenuItem Header="Visualize Partition" Click="ButtonTool_Click_Visualize">
+                        <MenuItem.Icon>
+                            <Image Height="20" Width="20" Stretch="Uniform" Source="./Resources/Images/linechart.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Help">
+                    <MenuItem Header="Help">
+                        <MenuItem.Icon>
+                            <Image Source="./Resources/Images/help.ico"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator Margin="-4"/>
+                    <MenuItem Header="About">
+                        <MenuItem.Icon>
+                            <Image Height="20" Width="20" Stretch="Uniform" Source="./Resources/Images/infoi.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+
+            </Menu>
+
+            <Navigation:RadTabControl Grid.Row="1" Name="tabctrl_tabs" TelerikStyles:StyleManager.Theme="Office_Blue">
+
+                <Navigation:RadTabItem>
+                    <Navigation:RadTabItem.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Height="24" Width="24" Stretch="Uniform" Source="./Resources/Images/barchart.png"/>
+                                <TextBlock VerticalAlignment="Center" Margin="2 0 2 0" Text="Preprocess"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </Navigation:RadTabItem.HeaderTemplate>
+                    <this:TabPreprocess x:Name="tbitem_TabPreprocess"></this:TabPreprocess>
+                </Navigation:RadTabItem>
+
+                <Navigation:RadTabItem>
+                    <Navigation:RadTabItem.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Height="24" Width="24" Stretch="Uniform" Source="./Resources/Images/piechart.png"/>
+                                <TextBlock VerticalAlignment="Center" Margin="2 0 2 0" Text="Clustering"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </Navigation:RadTabItem.HeaderTemplate>
+                    <this:TabClustering x:Name="tbitem_TabClustering"></this:TabClustering>
+                </Navigation:RadTabItem>
+
+                <Navigation:RadTabItem>
+                    <Navigation:RadTabItem.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Height="24" Width="24" Stretch="Uniform" Source="./Resources/Images/piechart.png"/>
+                                <TextBlock VerticalAlignment="Center" Margin="2 0 2 0" Text="Ensemble"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </Navigation:RadTabItem.HeaderTemplate>
+                    <this:TabEnsemble x:Name="tbitem_TabEnsemble"></this:TabEnsemble>
+                </Navigation:RadTabItem>
+
+                <Navigation:RadTabItem>
+                    <Navigation:RadTabItem.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Height="24" Width="24" Stretch="Uniform" Source="./Resources/Images/modify.png"/>
+                                <TextBlock VerticalAlignment="Center" Margin="2 0 2 0" Text="Evaluation"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </Navigation:RadTabItem.HeaderTemplate>
+                    <this:TabEvaluation x:Name="tbitem_TabEvaluation"></this:TabEvaluation>
+                </Navigation:RadTabItem>
+
+                <Navigation:RadTabItem>
+                    <Navigation:RadTabItem.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Height="24" Width="24" Stretch="Uniform" Source="./Resources/Images/linechart.png"/>
+                                <TextBlock VerticalAlignment="Center" Margin="2 0 2 0" Text="Visualize"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </Navigation:RadTabItem.HeaderTemplate>
+                    <this:TabVisualize x:Name="tbitem_TabVisualize"></this:TabVisualize>
+                </Navigation:RadTabItem>
+
+            </Navigation:RadTabControl>
+            
+        </Grid>
+        <Grid Name="grid_gray" Visibility="Hidden" Background="Gray" Opacity=".5">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Name="tblk_Progress" TextAlignment="Center" FontSize="20" FontWeight="Bold">Running...</TextBlock>
+                <controls:RadProgressBar TelerikStyles:StyleManager.Theme="Vista" Name="pb_Progress"  Height="50" Width="300"></controls:RadProgressBar>
+            </StackPanel>
+        </Grid>
+        <StatusBar Grid.Row="1">
+            <TextBlock Name="tb_state" Text="Ready"></TextBlock>
+            <!--<controls:RadProgressBar TelerikStyles:StyleManager.Theme="Vista" Visibility="Hidden" Name="pb_Progress"  Height="20" Width="200"></controls:RadProgressBar>-->
+        </StatusBar>
+    </Grid>
+
+
+</Window>

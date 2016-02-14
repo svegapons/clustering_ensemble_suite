@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClusterEnsemble.ClusterEnsemble.CusterEnsemble" Collapsed="true">
+    <Position X="49.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\ClusterEnsemble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.ConsensusFunction" Collapsed="true">
+    <Position X="11.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ClusterEnsemble\ClusterEnsemble.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.CoAssociation" Collapsed="true">
+    <Position X="2.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\ClusterEnsemble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.CoAssociationWithLifetime" Collapsed="true">
+    <Position X="9.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\ClusterEnsemble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.Graphs" Collapsed="true">
+    <Position X="16.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\ClusterEnsemble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.InformationTheoretic" Collapsed="true">
+    <Position X="22" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\ClusterEnsemble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.SimpleCoAssociation" Collapsed="true">
+    <Position X="0.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.CoAssociationMatrixDiss" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAACACCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.ProbabilityCoAssociation" Collapsed="true">
+    <Position X="2.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.ProbabilityCoAssociationMatrixDiss" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACACCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.WeightedCoAssociation" Collapsed="true">
+    <Position X="5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.WeightedCoAssociationMatrixDiss" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACACCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.SimpleCoAssociationLifetime" Collapsed="true">
+    <Position X="7.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociationWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.ProbabilityCoAssociationLifetime" Collapsed="true">
+    <Position X="9.5" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociationWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.WeightedCoAssociationLifetime" Collapsed="true">
+    <Position X="11.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\CoAssociationWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.CSPA" Collapsed="true">
+    <Position X="14" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\Graphs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.HGPA" Collapsed="true">
+    <Position X="16.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAABAAAAEAAAA=</HashCode>
+      <FileName>ClusterEnsemble\Graphs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.MCLA" Collapsed="true">
+    <Position X="18.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\Graphs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.QMI" Collapsed="true">
+    <Position X="20.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAEAAAAAAAAAAAAEAAAAAQAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\QMI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ClusterEnsemble.AverageQMI" Collapsed="true">
+    <Position X="23" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterEnsemble\QMI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.SingleLink" Collapsed="true">
+    <Position X="17.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.CompleteLink" Collapsed="true">
+    <Position X="21.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.GroupAverage" Collapsed="true">
+    <Position X="6" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.WeightedAverage" Collapsed="true">
+    <Position X="8.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.MedianLink" Collapsed="true">
+    <Position X="10.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.CentroidLink" Collapsed="true">
+    <Position X="12.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.Flexible_LanceAndWilliams" Collapsed="true">
+    <Position X="15" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\Agglomerative.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.SingleLinkLifetime" Collapsed="true">
+    <Position X="26" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\AgglomerativeWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.CompleteLinkLifetime" Collapsed="true">
+    <Position X="28.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\AgglomerativeWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.GroupAverageLifetime" Collapsed="true">
+    <Position X="30.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\AgglomerativeWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.WeightedAverageLifetime" Collapsed="true">
+    <Position X="32.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\AgglomerativeWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.MedianLinkLifetime" Collapsed="true">
+    <Position X="35" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\AgglomerativeWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.CentroidLinkLifetime" Collapsed="true">
+    <Position X="37.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAEAEAAAAACAABAAA=</HashCode>
+      <FileName>Clusters\AgglomerativeWithLifetime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.ClusterAlgorithm">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAIIAQAAAAAAAEAAAQAAABQAAg=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.NonHierarchical">
+    <Position X="20.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.Hierarchical">
+    <Position X="23.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.Agglomerative">
+    <Position X="20.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.AgglomerativeWithLifetime">
+    <Position X="22.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.Divisive">
+    <Position X="24.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.DivisiveWithLifetime">
+    <Position X="26.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\ClusterAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.KMeans" Collapsed="true">
+    <Position X="1.25" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAIAAAAAAEAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Clusters\KMeans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.Metis" Collapsed="true">
+    <Position X="3.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAA=</HashCode>
+      <FileName>Clusters\Metis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.SAHN_StopRules" Collapsed="true">
+    <Position X="19.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEAAAAAAAAAAABAAAAQAAAAAAEIAAACAAAAAAQ=</HashCode>
+      <FileName>Clusters\SAHN(StopRules).cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Clusters.SAHN" Collapsed="true">
+    <Position X="24" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAQAAAAAAEIAAAAAAAAAAQ=</HashCode>
+      <FileName>Clusters\SAHN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.DataStructures.HeapArray&lt;T&gt;" Collapsed="true">
+    <Position X="49.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAASABBQAAAAQAAAAQAAAACAAAgARAgAA=</HashCode>
+      <FileName>DataStructures\HeapArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.DataStructures.Container" Collapsed="true">
+    <Position X="48" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataStructures\HeapArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClusterEnsemble.DataStructures.Tree" Collapsed="true">
+    <Position X="48" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>DataStructures\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.DataStructures.ClassFields" Collapsed="true">
+    <Position X="51.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAIAAAAAAAAQAAAAAAAAAAAAIAAACAgA=</HashCode>
+      <FileName>DataStructures\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.DataStructures.Property" Collapsed="true">
+    <Position X="49.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQADAAAAAAAAAAAQAAAAAABAAAAAgAAAAAAA=</HashCode>
+      <FileName>DataStructures\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Set" Collapsed="true">
+    <Position X="46.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAgBAAAASAAQAAAQAAABAAAAAEgAEABAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Attribute" Collapsed="true">
+    <Position X="48" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACAAAqAAAAAQAgAAAAAAQAEEgAAAlAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Attributes" Collapsed="true">
+    <Position X="49.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAiAAAAAAAAAAAABAAAAAgAAAgAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Element" Collapsed="true">
+    <Position X="46.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAACAAAAAwQAAAAAAAAAEEgAQAhAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Cluster" Collapsed="true">
+    <Position X="44.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACIAECABAIAECAgQAAQCAAAABAAAAEAAAAAAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Partition" Collapsed="true">
+    <Position X="0.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Structuring" Collapsed="true">
+    <Position X="0.5" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAEABAAAAAAAABAACgAQIAAAAAAAoAAAAGQAAAAgAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.RealPartitionBuilder" Collapsed="true">
+    <Position X="51.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Utils" Collapsed="true">
+    <Position X="49.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAACgEAAUABACCACAAgEAhEBAAAAAABAABA=</HashCode>
+      <FileName>Utils\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.ElementsUtilities" Collapsed="true">
+    <Position X="48" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAACA=</HashCode>
+      <FileName>Utils\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.MeasureF" Collapsed="true">
+    <Position X="0.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Externals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.MeasurePurity" Collapsed="true">
+    <Position X="2.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Externals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.MeasureRandIndex" Collapsed="true">
+    <Position X="5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Externals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.MeasureMutualInformation" Collapsed="true">
+    <Position X="7.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAgABA=</HashCode>
+      <FileName>Evaluation\Externals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.ErrorRate" Collapsed="true">
+    <Position X="9.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Externals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.AverageClusterSize" Collapsed="true">
+    <Position X="11.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Internals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.SilhouetteWidth" Collapsed="true">
+    <Position X="14" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Internals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.Variance" Collapsed="true">
+    <Position X="16.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Internals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.Connectivity" Collapsed="true">
+    <Position X="18.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAABAQAIAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Internals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.Dunn" Collapsed="true">
+    <Position X="20.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Internals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.Measure" Collapsed="true">
+    <Position X="10.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABgAAAAAAAAQAAAAAAAAAAAAAAAAQAAg=</HashCode>
+      <FileName>Evaluation\Measure.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.External" Collapsed="true">
+    <Position X="5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Measure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Evaluation.Internal" Collapsed="true">
+    <Position X="16.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluation\Measure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.In" Collapsed="true">
+    <Position X="51.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.Value_Converter" Collapsed="true">
+    <Position X="51.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.Out" Collapsed="true">
+    <Position X="48" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.IntConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.IntGTZeroConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="46.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.DoubleLTOneConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.DoubleConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.Graphics.ReductionFunctionConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="46.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.LoadersAndSavers.ArffLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIgAAAAAAgACAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>LoadersAndSavers\ArffLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.LoadersAndSavers.ArffSaver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="46.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>LoadersAndSavers\ArffSaver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.Proximity" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAgQCAAACAAAQAAAAAAAAAAAAAAAgCAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.Dissimilarity" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.Similarity" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.AngleCosineSim" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAIAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.AngleCosine" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAIAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.EuclideanDistance" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.ManhatanDistance" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.Chebyshev" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.Minkowski" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.CoAsociationMatrixDissToMetis" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABIAAAAABAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Proximities.BinaryJaccardMeasure" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAIIAAAAAAAAA=</HashCode>
+      <FileName>Proximities\Proximities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClusterEnsemble.Reflection.ReflectionTools" Collapsed="true">
+    <Position X="44.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAADEAQQAACAAAAAQghAMAAAAAAEAAgIAAAAA=</HashCode>
+      <FileName>Reflection\ReflectionComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClusterEnsemble.ILoader" Collapsed="true">
+    <Position X="46.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIgAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>LoadersAndSavers\Interface_Stream.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClusterEnsemble.ISaver" Collapsed="true">
+    <Position X="44.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>LoadersAndSavers\Interface_Stream.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClusterEnsemble.Graphics.IParameterCoverter" Collapsed="true">
+    <Position X="51.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Converters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClusterEnsemble.Graphics.IName" Collapsed="true">
+    <Position X="48" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClusterEnsemble.Graphics.INeedProgressBar" Collapsed="true">
+    <Position X="49.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Graphics\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClusterEnsemble.Graphics.IContainerProgressBar" Collapsed="true">
+    <Position X="44.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAAAAEAAAAAQAACACAAAAABAAAAAAgAAAAAA=</HashCode>
+      <FileName>Graphics\Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClusterEnsemble.AttributeType" Collapsed="true">
+    <Position X="44.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAQCAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClusterEnsemble.ElementType" Collapsed="true">
+    <Position X="46.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAQAAAAAQCAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClusterEnsemble.Property" Collapsed="true">
+    <Position X="48" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABIAAAAAgAAAAHCAACAAAAAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClusterEnsemble.ProximityType" Collapsed="true">
+    <Position X="49.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>DataStructures\MainStructures.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="ClusterEnsemble.Clusters.UpdateParameters" Collapsed="true">
+    <Position X="44.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAA=</HashCode>
+      <FileName>Clusters\SAHN.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

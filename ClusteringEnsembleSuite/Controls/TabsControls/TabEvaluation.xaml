@@ -1,0 +1,142 @@
+﻿<UserControl x:Class="ClusteringEnsembleSuite.Controls.TabsControls.TabEvaluation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:this_Controls_Visualizers="clr-namespace:ClusteringEnsembleSuite.Controls.Visualizers"
+    xmlns:my="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input" 
+    xmlns:TelerikStyles="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls"
+    Height="Auto" Width="Auto">
+    <UserControl.Resources>
+        <Style TargetType="Path" x:Key="pathStyle">
+            <Setter Property="Path.Stroke" Value="#ff21448C"/>
+            <Setter Property="Path.Fill">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+                        <GradientStop Color="#ff21448C" Offset="0"/>
+                        <GradientStop Color="#ffE7E2FD" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Path.StrokeThickness" Value="1"/>
+        </Style>
+        <DataTemplate x:Key="HeaderTemplateArrowUp">
+            <DockPanel>
+                <TextBlock HorizontalAlignment="Center" Text="{Binding}"/>
+                <Path x:Name="arrow"
+                   StrokeThickness = "1" Style="{StaticResource pathStyle}"
+                   Data = "M 5,10 L 15,10 L 10,5 L 5,10"/>
+            </DockPanel>
+        </DataTemplate>
+        <DataTemplate x:Key="HeaderTemplateArrowDown">
+            <DockPanel>
+                <TextBlock HorizontalAlignment="Center" Text="{Binding }"/>
+                <Path x:Name="arrow"
+                  StrokeThickness = "1" Style="{StaticResource pathStyle}"
+                  Data            = "M 5,5 L 10,10 L 15,5 L 5,5"/>
+            </DockPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid>
+        
+        <Grid>
+        
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition ></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Row="0" Grid.ColumnSpan="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border BorderBrush="Black" Grid.Column="0" BorderThickness="1" CornerRadius="5" HorizontalAlignment="Left" Margin="10 10 10 5">
+                    <Border BorderBrush="DarkGray" BorderThickness="1" Margin="5">
+                        <Border.BitmapEffect>
+                            <DropShadowBitmapEffect/>
+                        </Border.BitmapEffect>
+                        <TextBlock Name="tb_SelectMeasure" Style="{DynamicResource TblkClicked}" MouseDown="tb_SelectMeasureAlg_MouseDown">
+                        Select Measures ...
+                        </TextBlock>
+                    </Border>
+                </Border>
+
+                <Button Name="bt_Run" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Evaluate Structurings" Padding=" 5 0 5 0" Click="bt_Run_Click"/>
+                <Button Name="bt_Save" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Save Evaluation" Padding=" 5 0 5 0" Margin="10" Click="bt_Save_Click"/>
+
+            </Grid>
+            
+            <this_Controls_Visualizers:ListClusterAlgVIsualizer x:Name="uctrl_ListClusterAlgVisualizerClustEnsemble" Grid.Row="1" Grid.Column="0" Margin="5"/>
+
+            <GridSplitter  Grid.Row="1" Grid.Column="1" Width="5" HorizontalAlignment="Stretch" Cursor="SizeWE" Name="gridSplitter1" ShowsPreview="True" ResizeDirection="Columns"/>
+
+            <GroupBox Grid.Row="1" Grid.Column="2" Header="Measures" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition ></RowDefinition>
+                    </Grid.RowDefinitions>
+                    
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    
+                    <CheckBox Name="chb_selectAll" Margin="5 0 5 5" VerticalAlignment="Center" Content="Select all" Checked="chb_selectAll_Checked" Unchecked="chb_selectAll_Checked"/>
+                    
+                    <TextBlock Grid.Column="1" Margin="5 0 0 5" VerticalAlignment="Center" HorizontalAlignment="Right" Text="Objective(Externals Measures):"> </TextBlock>
+                    
+                    <my:RadComboBox Name="cb_objetive" Grid.Column="2" TelerikStyles:StyleManager.Theme="Office_Blue" Margin="5" SelectionChanged="cb_Objetive_SelectionChanged" ></my:RadComboBox>
+                    
+                    <ListView Name="lv_Measures" Grid.Row="1" Grid.ColumnSpan="3" SelectionMode="Multiple" ItemContainerStyle="{DynamicResource LVItemStyle}" GridViewColumnHeader.Click="lv_Measures_Click" Margin="5 0 5 5">
+                        <ListView.View>
+                            <GridView>
+
+                                <GridViewColumn  Header="State">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox IsChecked="{Binding Path=IsSelected,
+                                             RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}}}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+                                <GridViewColumn Header="Measure">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding MeasureName}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+                            </GridView>
+                        </ListView.View>
+
+                    </ListView>
+                </Grid>
+            </GroupBox>
+
+            <GridSplitter  Grid.Row="1" Grid.Column="3" Width="5" HorizontalAlignment="Stretch" Cursor="SizeWE" Name="gridSplitter2" ShowsPreview="True" ResizeDirection="Columns"/>
+
+            <GroupBox Grid.Row="1" Grid.Column="4" Header="Output" Margin="5">
+                <ListView Name="lv_MeasuresOutput" ItemContainerStyle="{DynamicResource LVItemStyle}" GridViewColumnHeader.Click="lv_MeasuresOutput_Click" Margin="5">
+                    <ListView.View>
+                        <GridView></GridView>
+                    </ListView.View>
+                </ListView>
+            </GroupBox>
+            
+        </Grid>    
+        
+        <!--<this_Controls_Visualizers:MeasureVisualizer x:Name="this_MeasureVisualizer" Visibility="Hidden"></this_Controls_Visualizers:MeasureVisualizer>-->
+
+    </Grid>
+</UserControl>

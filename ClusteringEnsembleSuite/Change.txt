@@ -1,0 +1,29 @@
+﻿
+ 
+ERROR ::::
+
+En la medida de evaluacion me dio error la Connectivity en las lineas:
+	 EuclideanDistance ed = new EuclideanDistance();
+     ed.AttributesToCalculateDissimilarity = Structuring.Dissimilarity.AttributesToCalculateDissimilarity;
+     
+     Me dice que AttributesToCalculateDissimilarity es NULL, puede ser con algunas de las heuristicas de grafo mias. que a lo
+     mejor no le ponen los AttributesToCalculateDissimilarity porque no lo necesitan
+     
+     
+ERROR EN LA MEDIDA ERROR RATE, en el metodo GetClusterLabels() :
+
+.......................
+foreach (Cluster c in Structuring.Clusters.Values)
+            {
+                Dictionary<object, int> tempdic = new Dictionary<object, int>();
+                foreach (Element e in c.Elements)
+                {
+                //en el caso de que el atributo sea missing e[ObjetiveAttribute] == NULL
+                    if (tempdic.ContainsKey(e[ObjetiveAttribute]))
+                        tempdic[e[ObjetiveAttribute]]++;
+                    else
+                        tempdic.Add(e[ObjetiveAttribute], 1);
+                }      
+..............................
+
+Porque es que se le pone la Dissimilarity a cada particion, YO NO SE LA PONGO EN INGUNO DE MIS ALGORITMOS

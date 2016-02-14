@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="ClusteringEnsembleSuite.Controls.TabsControls.TabVisualize"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Visualizers="clr-namespace:ClusteringEnsembleSuite.Controls.Visualizers"
+    xmlns:input="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input"
+    xmlns:TelerikStyles="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <GroupBox Grid.Row="0" Grid.Column="0" Header="Ground-Truth"  Margin="5">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                
+                <TextBlock Text="Objetive:" VerticalAlignment="Center" Margin="5"></TextBlock>
+                <input:RadComboBox Name="cb_objetive" Grid.Column="1" TelerikStyles:StyleManager.Theme="Office_Blue" Margin="5" SelectionChanged="cb_Objetive_SelectionChanged" HorizontalAlignment="Left"></input:RadComboBox>
+                <Button Grid.Column="2" Content="Visualize" Margin="5" Padding="5 0 5 0" Click="Button_Click"></Button>
+            </Grid>
+        </GroupBox>
+
+        <Visualizers:ListClusterAlgVIsualizer x:Name="uctrl_ListClusterAlgVisualizer"  Grid.Row="1" Grid.Column="0" Margin="5"/>
+
+        <GridSplitter  Grid.Row="0" Grid.RowSpan="2" Grid.Column="1" Width="5" HorizontalAlignment="Stretch" Cursor="SizeWE" Name="gridSplitter1" ShowsPreview="True" ResizeDirection="Columns"/>
+
+        <GroupBox Grid.RowSpan="2" Grid.Column="2" Header="2D Visualize"  Margin="5">
+            <Visualizers:PartitionVisualizer Margin="5" x:Name="ctrl_partvisualize"></Visualizers:PartitionVisualizer>
+        </GroupBox>
+    </Grid>
+</UserControl>

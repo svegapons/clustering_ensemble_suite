@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="ClusteringEnsembleSuite.Controls.Visualizers.Assigment"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:this_Controls_Visualizers="clr-namespace:ClusteringEnsembleSuite.Controls.Visualizers">
+    
+    <Grid Name="mainGrid">
+        <WrapPanel Name="spMain" Orientation="Vertical" >
+            
+        </WrapPanel>
+        <!--<ContentControl Name="contentControl1" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Hidden">
+            <ContentControl.BitmapEffect>
+                <DropShadowBitmapEffect />
+            </ContentControl.BitmapEffect>
+            <Border CornerRadius="6" Background="#D6E2F2" BorderThickness="2">
+                <Grid>
+                    <this_Controls_Visualizers:ElementsVisualizer x:Name="uctrl_ElementsVisualizer" MouseLeave="diffControl_MouseLeave" Margin="10"/>
+                </Grid>
+            </Border>
+
+        </ContentControl>-->
+    </Grid>
+</UserControl>

@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="ClusteringEnsembleSuite.Controls.Visualizers.PartitionVisualizer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:input="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input"
+    xmlns:chart="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Charting"
+    xmlns:controls="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls"
+    xmlns:TelerikStyles="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="X:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"></TextBlock>
+
+        <input:RadComboBox x:Name="cb_objetiveX" Width="150" Grid.Column="1" Margin="5" TelerikStyles:StyleManager.Theme="Office_Blue" SelectionChanged="cb_objetiveX_SelectionChanged"></input:RadComboBox>
+
+        <TextBlock Text="Y:" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5"></TextBlock>
+
+        <input:RadComboBox x:Name="cb_objetiveY" Width="150" Grid.Column="3" Margin="5" TelerikStyles:StyleManager.Theme="Office_Blue" HorizontalAlignment="Left" SelectionChanged="cb_objetiveY_SelectionChanged"></input:RadComboBox>
+
+        <Button Name="btSave" Grid.Column="4" VerticalAlignment="Top"  Margin="5" Click="btSave_Click"  >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image Source="../../Resources/Images/save.png"></Image>
+                <TextBlock Grid.Column="1" Padding=" 5 0 5 0" Text="Save"></TextBlock>
+            </Grid>
+        </Button>
+
+        <TextBlock x:Name="tb_alg_name" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5"></TextBlock>
+
+
+        <chart:RadChart controls:StyleManager.Theme="Office_Blue" Grid.Row="1" x:Name="rc_graphic" Grid.ColumnSpan="6"></chart:RadChart>
+
+    </Grid>
+</UserControl>

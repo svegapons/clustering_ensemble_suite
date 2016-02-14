@@ -1,0 +1,196 @@
+D:\WORKS\Work\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\WORKS\Work\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\WORKS\Work\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\Weka.NET.dll
+D:\WORKS\Work\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\WORKS\Work\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\WORKS\Work\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+F:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+F:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+F:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\Weka.NET.dll
+F:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+F:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+F:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\Ale\Desktop\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\Ale\Desktop\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\Ale\Desktop\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\Weka.NET.dll
+C:\Users\Ale\Desktop\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\Ale\Desktop\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\Ale\Desktop\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\Ale\Desktop\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\Ale\Desktop\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\Weka.NET.dll
+C:\Users\Ale\Desktop\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\Ale\Desktop\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\Weka.NET.dll
+D:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\CENATAV\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+L:\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+L:\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+L:\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\bin\Debug\Weka.NET.dll
+L:\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+L:\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+L:\TesisRepo\VisualClusterEnsemble\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\WORKS\Work\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\WORKS\Work\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\WORKS\Work\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\WORKS\Work\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\WORKS\Work\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\CENATAV\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\CENATAV\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\CENATAV\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\CENATAV\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\CENATAV\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Documents and Settings\DianayJoan\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Documents and Settings\DianayJoan\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Documents and Settings\DianayJoan\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DianayJoan\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Documents and Settings\DianayJoan\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+H:\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+H:\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+H:\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+H:\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+H:\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\CENATAV\codigo\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\CENATAV\codigo\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\CENATAV\codigo\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\CENATAV\codigo\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\CENATAV\codigo\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jean\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code(No versionado)\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code(No versionado)\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code(No versionado)\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code(No versionado)\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\NOW\Backup\Tesis Code(No versionado)\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\CENATAV\codigo\Copy of Tesis Code(para probar Ribbon de Infrag)\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\CENATAV\codigo\Copy of Tesis Code(para probar Ribbon de Infrag)\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\CENATAV\codigo\Copy of Tesis Code(para probar Ribbon de Infrag)\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\CENATAV\codigo\Copy of Tesis Code(para probar Ribbon de Infrag)\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\CENATAV\codigo\Copy of Tesis Code(para probar Ribbon de Infrag)\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\New folder\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\New folder\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\New folder\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jean\Desktop\New folder\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\New folder\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\jean\Desktop\NOW\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Ale\Desktop\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\Work\TESIS FINAL\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\aguerra\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\Temporary\Tesis Code\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\mduval\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+C:\Users\Miguel A. Duval Poo\Music\Desktop\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\ClusteringEnsembleSuite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\obj\Debug\ResolveAssemblyReference.cache
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\obj\Debug\ClusterEnsemble.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\obj\Debug\ClusterEnsemble.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\ClusterEnsemble.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\ClusterEnsemble.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.pdb
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\Telerik.Windows.Controls.xml
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusterEnsemble\bin\Debug\tr\Telerik.Windows.Controls.resources.dll

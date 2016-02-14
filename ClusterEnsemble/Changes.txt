@@ -1,0 +1,9 @@
+﻿KMeans --> A la hora de obtener los k centroides iniciales, el ciclo FOR lo cambie
+
+CoAssociation --> A la hora de construir la matrix en cad posicion se pone 1-val
+ya que eso es una medida de disimilitud por tanto mientra mas pequenna mas cercano son los elementos.
+
+En CoAssociation no se puede utilizar el KMeans ya que este algoritmo internamente calcula la disimilitud entre
+cualquier elemento y el centroide, pero el centroide no pertenece a la matrix creada por el CoAssociation, es decir el centroide
+no tiene indice, por lo que da excepcion a la hora de indexar la matrix en el indice -1.
+

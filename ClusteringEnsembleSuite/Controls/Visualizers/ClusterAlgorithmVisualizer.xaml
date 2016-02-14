@@ -1,0 +1,36 @@
+﻿<Window x:Class="ClusteringEnsembleSuite.Controls.Visualizers.ClusterAlgorithmVisualizer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ce_DataStructures="clr-namespace:ClusterEnsemble.DataStructures;assembly=ClusterEnsemble"
+    xmlns:my1="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Navigation"  
+    xmlns:my="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input"
+    xmlns:controls="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls"             
+    xmlns:this_Controls_Visualizers="clr-namespace:ClusteringEnsembleSuite.Controls.Visualizers"
+    Title="Select Algorithm" Height="Auto" Width="500" ResizeMode="NoResize" Closing="Window_Closing" Icon="/ClusteringEnsembleSuite;component/Resources/Images/config.ico">
+    <Window.Resources>
+        <HierarchicalDataTemplate DataType = "{x:Type ce_DataStructures:Tree}" ItemsSource = "{Binding Path=Childs}">
+            <TextBlock Text="{Binding Path=Value.Name}" />
+        </HierarchicalDataTemplate>
+    </Window.Resources>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <my1:RadTreeView Grid.Row="0" Grid.RowSpan="2" IsLineEnabled="True" Background="White" Grid.Column="0" Name="tv_ClusterAlgs" controls:StyleManager.Theme="Office_Blue" ItemContainerStyle="{DynamicResource TVItemStyle}" SelectionChanged="tv_ClusterAlgs_SelectedItemChanged"></my1:RadTreeView>
+            
+            <StackPanel Grid.Column="1" Background="AliceBlue" Width="Auto">
+                <GroupBox Header="Proximity" Name="gb_Proximities" Visibility="Hidden" Margin="10">
+                    <my:RadComboBox Name="cb_Proximities" SelectionChanged="cb_Proximities_SelectionChanged" Margin="5" controls:StyleManager.Theme="Office_Blue" ></my:RadComboBox>
+                </GroupBox>
+            </StackPanel>
+
+            <this_Controls_Visualizers:OneClusterAlgVisualizer Grid.Row="1" Grid.Column="1" x:Name="uctrl_OneClustAlgVis"/>
+
+       </Grid>
+</Window>

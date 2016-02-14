@@ -1,0 +1,51 @@
+﻿<Window x:Class="ClusteringEnsembleSuite.Windows.Intro"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    MouseLeftButtonDown="Window_MouseLeftButtonDown"
+    xmlns:src="clr-namespace:ClusteringEnsembleSuite.Code.DataStructures"
+    xmlns:this_Controls_Visualizers="clr-namespace:ClusteringEnsembleSuite.Controls.Visualizers"    
+    Title="Intro" Height="300" Width="500" AllowsTransparency="True" WindowStyle="None" Background="Transparent" Closing="Window_Closing" Loaded="Window_Loaded">
+
+    <Border CornerRadius="10" BorderThickness="1" Background="AliceBlue">
+        <ContentControl>
+            <ContentControl.BitmapEffect>
+                <DropShadowBitmapEffect/>
+            </ContentControl.BitmapEffect>
+            <Canvas Name="canvas">
+                <Image Name="img_0" Height="16" Width="16" Canvas.Left="10" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_1" Height="16" Width="16" Canvas.Left="30" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_2" Height="16" Width="16" Canvas.Left="50" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_3" Height="16" Width="16" Canvas.Left="70" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_4" Height="16" Width="16" Canvas.Left="90" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_5" Height="16" Width="16" Canvas.Left="110" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_6" Height="16" Width="16" Canvas.Left="130" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_7" Height="16" Width="16" Canvas.Left="150" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_8" Height="16" Width="16" Canvas.Left="170" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+                <Image Name="img_9" Height="16" Width="16" Canvas.Left="190" Canvas.Top="0" Source="../Resources/Images/ballred.ico" />
+
+                <Image Name="img_10" Height="16" Width="16" Canvas.Left="10" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_11" Height="16" Width="16" Canvas.Left="30" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_12" Height="16" Width="16" Canvas.Left="50" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_13" Height="16" Width="16" Canvas.Left="70" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_14" Height="16" Width="16" Canvas.Left="90" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_15" Height="16" Width="16" Canvas.Left="110" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_16" Height="16" Width="16" Canvas.Left="130" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_17" Height="16" Width="16" Canvas.Left="150" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_18" Height="16" Width="16" Canvas.Left="170" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+                <Image Name="img_19" Height="16" Width="16" Canvas.Left="190" Canvas.Top="20" Source="../Resources/Images/ballblue.ico" />
+
+                <Image Name="img_20" Height="16" Width="16" Canvas.Left="10" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_21" Height="16" Width="16" Canvas.Left="30" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_22" Height="16" Width="16" Canvas.Left="50" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_23" Height="16" Width="16" Canvas.Left="70" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_24" Height="16" Width="16" Canvas.Left="90" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_25" Height="16" Width="16" Canvas.Left="110" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_26" Height="16" Width="16" Canvas.Left="130" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_27" Height="16" Width="16" Canvas.Left="150" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_28" Height="16" Width="16" Canvas.Left="170" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+                <Image Name="img_29" Height="16" Width="16" Canvas.Left="190" Canvas.Top="40" Source="../Resources/Images/ballgreen.ico" />
+            </Canvas>
+        </ContentControl>
+    </Border>
+
+</Window>

@@ -1,0 +1,18 @@
+﻿ClusteringEnsembleSuite
+
+
+winexe
+C#
+.cs
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusteringEnsembleSuite\obj\Debug\
+ClusteringEnsembleSuite
+none
+false
+DEBUG;TRACE
+D:\aguerra\WORK\Mis trabajos\Partitions Reduction 2012\Clustering Ensemble Suite\ClusteringEnsembleSuite\App.xaml
+25-316307975
+
+35790772836
+21-1693171527
+Controls\Loader.xaml;Controls\TabsControls\TabClustering.xaml;Controls\TabsControls\TabEnsemble.xaml;Controls\TabsControls\TabEvaluation.xaml;Controls\TabsControls\TabPreprocess.xaml;Controls\TabsControls\TabVisualize.xaml;Controls\Visualizers\AllParametersMeasuresVisualizer.xaml;Controls\Visualizers\Assigment.xaml;Controls\Visualizers\AttributesGraphicsVisualizer.xaml;Controls\Visualizers\AttributesVisualizer.xaml;Controls\Visualizers\ClusterAlgorithmVisualizer.xaml;Controls\Visualizers\ClusterDetails.xaml;Controls\Visualizers\ElementsVisualizer.xaml;Controls\Visualizers\EnsembleAlgorithmVisualizer.xaml;Controls\Visualizers\ListClusterAlgVisualizer.xaml;Controls\Visualizers\ListSetsVisualizer.xaml;Controls\Visualizers\MeasuresVisualizer.xaml;Controls\Visualizers\OneClusterAlgVisualizer.xaml;Controls\Visualizers\OneEnsembleAlgVisualizer.xaml;Controls\Visualizers\PartitionsVisualizerWindow.xaml;Controls\Visualizers\PartitionVisualizer.xaml;Main.xaml;Resources\Styles\Dictionary1.xaml;Resources\Styles\UserControlStyles.xaml;Windows\Intro.xaml;
+

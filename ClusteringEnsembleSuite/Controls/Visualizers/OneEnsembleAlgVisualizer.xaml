@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ClusteringEnsembleSuite.Controls.Visualizers.OneEnsembleAlgVisualizer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="Auto" Width="Auto">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Name="sp" Grid.Row="0" Orientation="Vertical" Background="AliceBlue">
+
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Background="AliceBlue">
+            <Button Name="bt_select" Click="bt_select_Click" Content=" Select " Margin="10" Visibility="Hidden"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
